@@ -6,3 +6,7 @@ Welcome! This repository is a hands-on exercise created at ITI to help us learn 
 
 Just clone, then run.
 Bye .. Bye
+
+# What else ?
+Actually there's nothing left to be said so yeah
+Bye .. Bye
